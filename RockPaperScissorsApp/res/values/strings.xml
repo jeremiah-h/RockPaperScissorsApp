@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="ivLogo">Splash Image</string>
+    <string name="tvTitle">Rock Paper Scissors</string>
+    <string name="ivPlay">Play</string>
+    <string name="tvChoicePrompt">Enter choice:</string>
+    <string name="ibRock">Rock</string>
+    <string name="ibPaper">Paper</string>
+    <string name="ibScissors">Scissors</string>
+    <string name="tvRoundNum">Round 1</string>
+    <string name="tvYouChose">You:</string>
+    <string name="tvCompChose">Computer:</string>
+    <string name="ivYouChose">Your Choice</string>
+    <string name="ivCompChose">Computer Choice</string>
+    <string name="tvWinner">Winner:</string>
+    <string name="tvFinalWinner">Winner!</string>
+    <string name="tvResults">Results:</string>
+    <string name="tvYourScore">Your Score</string>
+    <string name="tvCompScore">Computer Score</string>
+    <string name="tvTieScore">Tie Score</string>
+    <string name="bNextRound">Next Round</string>
+    <string name="ivRock">Rock</string>
+    <string name="ivPaper">Paper</string>
+    <string name="ivScissors">Scissors</string>
+    <string name="bPlayAgain">Play Again</string>
+</resources>
